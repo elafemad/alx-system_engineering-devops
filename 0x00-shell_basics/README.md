@@ -1,3 +1,4 @@
 1. 0current working directory is printing the current path
 2. 1-listit is listing thecontent of the files
 3. bring me home is showing how I can change my directory to home
+4. 3listfiles is showing the current directory ontent in long format
