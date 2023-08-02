@@ -4,4 +4,5 @@
 4. 3listfiles is showing the current directory ontent in long format
 5. 4list more file is displaying current directory contents, including hidden files using the long format.
 6. 5list file is displaying current dir content in long format with user and group id in long format
-7. 6first directory is creating a script that creates a directory named my_first_directory in the /tmp/ directory.
+7. 6first directory is creating a script that creates a directory named my_first_directory in the /tmp/ directory
+8. 7move that file move the file betty from /tmp/ to /tmp/my_first_directory.
