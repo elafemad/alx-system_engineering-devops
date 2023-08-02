@@ -6,4 +6,6 @@
 6. 5list file is displaying current dir content in long format with user and group id in long format
 7. 6first directory is creating a script that creates a directory named my_first_directory in the /tmp/ directory
 8. 7move that file move the file betty from /tmp/ to /tmp/my_first_directory.
-9. 8first delete delete the file betty in tem directory.
+9. 8first delete delete the file betty in tem directory
+10. 9-firstdirdeletion delete the directory in temp
+11. 10-back script that changes the working directory to the previous one
