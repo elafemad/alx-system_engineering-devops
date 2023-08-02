@@ -9,3 +9,4 @@
 9. 8first delete delete the file betty in tem directory
 10. 9-firstdirdeletion delete the directory in temp
 11. 10-back script that changes the working directory to the previous one
+12. a script that lists all files in the current directory and the parent of the working directory and the /boot directory, in long format.
