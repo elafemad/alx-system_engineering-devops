@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | getent passwd
+getent passw
