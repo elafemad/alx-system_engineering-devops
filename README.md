@@ -1,1 +1,1 @@
- in this project I'm trying to learn more about shell basics and scripts
+Here I'm trying to know more about shell basics, and shell permissions 
