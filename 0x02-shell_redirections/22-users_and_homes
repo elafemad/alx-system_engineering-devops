@@ -1,2 +1,2 @@
 #!/bin/bash
-getent passw | sort
+sort | getent passw
